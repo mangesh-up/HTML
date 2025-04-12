@@ -1,0 +1,23 @@
+      <!--Open 1st HTML and close HTML-->
+
+<HTML>
+<head>
+         <!-- Title of the Webside-->
+    <title> Heading Pases </title>
+</head>
+<body>
+          <!--  Bpdy Of the Webside-->
+	  		 <!-- Use 6 heading tag in HTML -->
+		<h1>Hello</h1>                     <!-- Heading Tag H1-->
+		<h2>Hello</h2>                     <!-- Heading Tag H2-->
+		<h3>Hello</h3>                     <!-- Heading Tag H3-->
+		<h4>Hello</h4>                     <!-- Heading Tag H4-->
+		<h5>Hello</h5>                     <!-- Heading Tag H5-->
+		<h6>Hello</h6>                     <!-- Heading Tag H6-->
+</body>
+
+<footer>
+          <!--footer of Webside  -->
+</footer>
+</html>
+ 
