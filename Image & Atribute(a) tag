@@ -1,0 +1,20 @@
+
+ <HTML> 
+
+<head>
+         <!--  Title of Web-->
+    <title> Image Tag</title>
+</head>
+<body>
+          <!--  Body of The Webside -->
+	  	    
+	       <!-- Image tag -->
+        <img src="Set image path" alt="  Image " width="150" height="150">
+
+           <!--Atribute of Link -->
+
+         <a href="Set Any web path "alt=" Google Link"></a>
+</body>
+
+</html>
+ 
