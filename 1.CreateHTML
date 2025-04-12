@@ -1,0 +1,16 @@
+           <!--Create Body-->
+<HTML>
+<head>
+         <!-- Title of the webside -->
+    <title> Simple html page </title>
+</head>
+<body>
+          <!--  Webside of the Body  -->
+		<h1>Hello</h1>  
+</body>
+
+<footer>
+          <!--  Footer of Web   -->
+</footer>
+</HTML>
+ 
