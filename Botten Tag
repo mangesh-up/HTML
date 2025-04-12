@@ -1,0 +1,54 @@
+ <html>
+<head><title>UI Event Example</title></head>
+<body>
+
+    <h3>Student List data..</h3>
+    <table border="4">
+
+        <tr><!--tr means Table  Row-->
+            <th> Name</th><!-- th means table heading-->
+            <th> State</th>
+            <th> Course</th>
+
+        </tr>
+        <tr>
+            <td> Nikhil </td><!--td Means table data-->
+            <td> Panjab</td>
+            <td> MCA</td>
+        </tr>
+        <tr>
+            <td>  Rajesh </td>
+            <td> Haryana</td>
+            <td> MCA</td>
+        </tr>
+        <tr>
+            <td> Ayush </td>
+            <td> Uttar Pradesh</td>
+            <td> MCA</td>
+        </tr>
+        <tr>
+            <td>  Harsh </td>
+            <td>  Bihar</td>
+            <td> MCA</td>
+        </tr>
+        <tr>
+            <td>  Pankaj </td>
+            <td>  Uttrakhand</td>
+            <td> MCA</td>
+        </tr>
+    </table>
+
+    <h4>Submit </h4>
+<!-- Creat botten for Any submit pa-->
+<button id="myButton">Click Me</button>
+<p id="msg"></p>
+
+<!--Afer submit the page than feedbace -->
+<script>
+    document.getElementById("myButton").addEventListener("click", function() {
+        document.getElementById("msg").innerText = "Button Clicked!";
+    });
+</script>
+
+</body>
+</html>
