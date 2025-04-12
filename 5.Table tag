@@ -1,0 +1,52 @@
+ 
+
+ 
+ <HTML> 
+<head>
+         <!--  Title of the Website-->
+    <title> Table Tage</title>
+</head>
+<body>
+                         <!--  Body of Web -->
+	 <!--  MCA Student Table -->
+    
+        <h3>Student List</h3>
+        <table border="4">
+
+            <tr><!--tr means Table  Row-->
+                <th> Name</th><!-- th means table heading-->
+                <th> State</th>
+                <th> Course</th>
+
+            </tr>
+            <tr>
+                <td> Nikhil </td><!--td Means table data-->
+                <td> Panjab</td>
+                <td> MCA</td>
+            </tr>
+            <tr>
+                <td>  Rajesh </td>
+                <td> Haryana</td>
+                <td> MCA</td>
+            </tr>
+            <tr>
+                <td> Ayush </td>
+                <td> Uttar Pradesh</td>
+                <td> MCA</td>
+            </tr>
+            <tr>
+                <td>  Harsh </td>
+                <td>  Bihar</td>
+                <td> MCA</td>
+            </tr>
+            <tr>
+                <td>  Pankaj </td>
+                <td>  Uttrakhand</td>
+                <td> MCA</td>
+            </tr>
+        </table>
+   
+</body>
+ 
+</HTML>
+ 
