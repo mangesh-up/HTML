@@ -1,0 +1,14 @@
+ 
+<html>
+<head>
+  <title>Simple Iframe</title>
+</head>
+<body>
+    <!-- Iframe to display content -->
+<iframe name="myFrame" width="600" height="400"></iframe>
+
+<!-- Link to load content iframe -->
+<a href="https://www.wikipedia.org" target="myFrame">Open Wikipedia</a>
+
+</body>
+</html>
