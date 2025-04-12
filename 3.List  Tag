@@ -1,0 +1,37 @@
+  
+
+ 
+ <HTML>
+    <head>
+             <!-- Title of the webside -->
+        <title> Tag list create</title>
+    </head>
+    <body>
+                             <!-- Body of the web-->
+                  
+                              <!-- option wise Question use LIST TAg  -->
+            <h3> 1.What is your Prime Minister Name ?</h3>
+                 
+            <ul><!-- option for answer-->
+                <li>A) Rahul Gandhi</li> 
+                <li>B) Akhilesh Yadav</li>
+                <li>C)  Narendra Modi</li> 
+                <li>D)  Amit Shah</li> 
+            </ul>
+         
+    
+                              
+            <h3> 2.Who is your Favrate country? </h3>
+                 
+            <ul><!-- option for answer-->
+                <li>A)  India</li> 
+                <li>B) Nepal</li>
+                <li>C)   America</li> 
+                <li>D)   Russia</li> 
+            </ul>
+    
+                           
+    </body>
+    </html>
+    
+    
