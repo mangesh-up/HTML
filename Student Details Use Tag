@@ -1,0 +1,94 @@
+ 
+ 
+<HTML> 
+<head>
+          <!--Title of Webpage-->
+    <title>Document</title>
+</head>
+<body>
+     
+          <!-- Web Body Part-->
+    <h2>Student Introduction </h2>
+
+           <!-- Set image path location -->
+    <img scr = "Set path our image "alt = "Student img:" 
+    width="150 " height="159">
+
+           <!--Define Detail in Parafraph Tag-->
+    <p>
+        <strong>Student Name:</strong>
+        "Mangesh kumar"
+    </p>
+    <p>
+        <strong>Class:</strong>
+        "MCA"
+    </p>
+    <h4> Quiz Questions</h4>
+
+    <p>
+        <strong>1. What is the capital of India?</strong>
+    </p>
+     
+       <!--UL & UI create order list-->
+
+    <ul> 
+       <li>1 Mumbai</li>
+       <li>2 Delhi</li>
+       <li>3 Panjab</li>
+       <li>4 Uttar pradesh</li>
+    </ul>
+
+    <p>
+        <strong>2.Who is the prime minister of India?</strong>
+
+        <ul> 
+            <li>1 Narendra Modi</li>
+            <li>2 Rahul Gandhi</li>
+            <li>3 Akhilesh Yadav</li>
+            <li>4  Amit shah</li>
+         </ul>
+     
+    </p>
+
+    <p>
+        <strong>3.Terms used of computer science.....</strong>
+    </p>
+
+          <!--DL means Description List-->
+          <!-- DT means defines the term -->
+          <!-- DD means defines the description -->
+    <dl>
+        <dt>HTML</dt>
+        <dd>HyperText Markup Language</dd>
+      
+        <dt>CSS</dt>
+        <dd>Cascading Style Sheets</dd>
+      
+        <dt>JavaScript</dt>
+        <dd>A scripting language used to make web pages interactive</dd>
+      </dl>
+
+             <!--Student Marks Table-->
+
+   <h2>Student Marks</h2>  
+   
+   <table border ="2" align="center">
+
+            <!--TR means Table Row-->
+            <!--TH means Table Heading-->
+            <!--TD means Table Data-->
+    <tr>
+        <th>Subject</td>
+        <th> Marks</td>
+    </tr>
+    <tr>
+        <td>JAVA </td>
+        <td>31 </td>
+    </tr>
+    <tr>
+        <td>C Language </td>
+        <td>56 </td>
+    </tr>
+</table>
+</body>
+</html>
