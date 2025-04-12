@@ -1,0 +1,63 @@
+ <HTML> 
+    <!-- Time table pase -->
+    <title>Time Table</title>
+</head>
+<body>
+             <!--Body part -->
+    <table border="2">
+                   <!--Mearge with colspan & heading in table-->
+        <tr>
+            <th colspan="19"><strong>G.L.BAJAJ INSTITUTE OF TECHNOLOGY AND MANAGEMENT, GREATER NOIDA</strong></th>
+        </tr>
+        <tr>
+            <th colspan="19">TIME-TABLE SESSION 2024-2025  (EVEN SEMESTER) W.E.F.: 24.03.2025</th>
+        </tr>
+        <tr>
+            <th colspan="19">YEAR: 1st                Year SEM: 2nd               BRANCH: MCA                      Sec- A3                                Room No. 406</th>
+        </tr>
+        <tr></tr>
+
+        <!--Ceate row headading-->
+        <tr>
+            <th>DAY/TIME</th>
+            <td colspan="2" >09:10 AM - 10:00 AM</td>
+            <td colspan="2">10:01 AM - 10:50 AM</td>
+            <td colspan="2">10:51 AM - 11:40 AM</td>
+            <td colspan="2">11:41 AM - 12:30 PM</td>
+            <td colspan="2">12:31 PM- 01:10 PM</td>
+            <td colspan="2">01:11 PM - 02:00 PM</td>
+            <td colspan="2">02:01 PM - 02:50 PM</td>
+            <td colspan="2">02:51 PM - 03:40 PM</td>
+            <td colspan="2">03:41 PM - 04:30 PM</td> 
+        </tr>
+        <tr>
+            <th rowspan="2">MONDAY</th>
+            <td colspan="4">OOPS LAB (G1)BMC 252(BM) (207)</td>
+            <td colspan="2" rowspan="2">(DSA) BMC 205(AM)</td>
+            <td colspan="2" rowspan="2">Sports & YOGA</td>
+            <td colspan="2" rowspan="12">LUNCH</td>
+            <td colspan="4">WT LAB(G1) BMC 251 (AN) (207)</td>
+            <td colspan="2" rowspan="2">(DBMS) BMC 204(KS)</td>
+            <td colspan="2" rowspan="2">(OS) BMC 203(LK)</td> 
+        </tr>
+        <tr>
+            <td colspan="4">OOPS LAB (G2) BMC 252(GV) (207)</td>
+            <td colspan="4">WT LAB (G2) BMC 251 (SuK)  (207)</td>
+        </tr>
+        <tr>
+            <th rowspan="2">TUESDAY</th>
+            <td colspan="2"> WT LAB (G1) BMC 251 (AN)(207)</td>
+            <td colspan="4">DSA LAB (G1)BMC 254(AM) (207)</td>
+            <td colspan="2" rowspan="2">(OOPS) BMC 202(BM)</td>
+            <td colspan="2" rowspan="2">(OOPS) BMC 202(BM)</td>
+            <td colspan="2" rowspan="2">(DSA) BMC 205(AM)</td>
+            <td colspan="2" rowspan="2">(DBMS) BMC 204(KS)</td>
+            <td colspan="2" rowspan="2">(WT) BMC 201(AN)</td> 
+        </tr>
+        <tr>
+            <td colspan="2"> WT LAB (G2) BMC 251 (SuK) (207)</td>
+            <td colspan="4">DSA LAB  (G2)BMC 254(LK) (207)</td>
+        </tr>
+    </table>
+</body>
+</html>
